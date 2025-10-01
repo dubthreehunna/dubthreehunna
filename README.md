@@ -43,8 +43,6 @@
 
 </div>
 
----
-
 ```go
 type Developer struct {
     Name       string
