@@ -2,26 +2,6 @@
 
 # Tech Stack
 
-</div>
-
-```go
-type Developer struct {
-    Name       string
-    Focus      string
-    Stack      []string
-}
-
-func main() {
-    dev := Developer{
-        Name:  "dubthreehunna",
-        Focus: "Backend Engineering",
-        Stack: []string{"Go", "Distributed Systems", "High Load"},
-    }
-}
-```
-
-<div align="center">
-
 ### ⚡ Core
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -63,6 +43,20 @@ func main() {
 
 ---
 
-*Backend • Distributed Systems • High Performance*
+```go
+type Developer struct {
+    Name       string
+    Focus      string
+    Stack      []string
+}
+
+func main() {
+    dev := Developer{
+        Name:  "dubthreehunna",
+        Focus: "Backend Engineering",
+        Stack: []string{"Go", "Distributed Systems", "High Load"},
+    }
+}
+```
 
 </div>
