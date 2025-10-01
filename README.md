@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Tech Stack
+# Tech Stack
 
 </div>
 
@@ -63,10 +63,6 @@ func main() {
 
 ---
 
-```
->>> system.load("developer")
->>> status: ready
->>> mode: building
-```
+*Backend • Distributed Systems • High Performance*
 
 </div>
