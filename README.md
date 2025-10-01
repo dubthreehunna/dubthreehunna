@@ -2,13 +2,13 @@
 
 <div align="center">
 
-### 🚀 Основной стек
+### 🚀 Core Stack
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Gin](https://img.shields.io/badge/gin-%2300ADD8.svg?style=for-the-badge&logo=gin&logoColor=white)
 ![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white)
 
-### 🗄️ Базы данных
+### 🗄️ Databases
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -37,40 +37,5 @@
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-
-</div>
-
----
-
-<div align="center">
-
-## 🎯 Архитектурные паттерны
-
-```
-Microservices  •  Clean Architecture  •  CQRS  •  Event-Driven
-REST API  •  gRPC Services  •  Message Queues  •  DDD
-```
-
-## 🔥 Текущий фокус
-
-```go
-// Изучаю и внедряю
-- Распределённые системы
-- High Load архитектуры  
-- Event Sourcing
-- Observability & Tracing
-```
-
-</div>
-
----
-
-<div align="center">
-
-### 📫 Связаться со мной
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/threeeeehunna)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 </div>
