@@ -43,5 +43,34 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dubthreehunna&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+
+## 🎯 Архитектурные паттерны
+
+```
+Microservices  •  Clean Architecture  •  CQRS  •  Event-Driven
+REST API  •  gRPC Services  •  Message Queues  •  DDD
+```
+
+## 🔥 Текущий фокус
+
+```go
+// Изучаю и внедряю
+- Распределённые системы
+- High Load архитектуры  
+- Event Sourcing
+- Observability & Tracing
+```
+
+</div>
+
+---
+
+<div align="center">
+
+### 📫 Связаться со мной
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/threeeeehunna)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
 </div>
