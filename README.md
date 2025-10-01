@@ -3,10 +3,28 @@
 
 ---
 
-## 📊 Моя активность в 3D
+## ⚡ Моя недавняя активность
 
 <p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=dubthreehunna&theme=dark" alt="My 3D Contributions" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dubthreehunna&bg_color=161b22&color=ffffff&line=00add8&point=ffffff&area=true&hide_border=true" alt="Recent Activity" />
+</p>
+
+---
+
+## 🏙️ Мой GitHub Skyline 2025
+
+<p align="center">
+  <img src="https://skyline.github.com/dubthreehunna/2025.svg" alt="GitHub Skyline" />
+</p>
+
+---
+
+## 🎧 Что я сейчас слушаю
+
+<p align="center">
+  <a href="https://readme-spotify-tingz.vercel.app/api/now-playing">
+    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing?theme=dark" alt="Now Playing" />
+  </a>
 </p>
 
 ---
