@@ -3,9 +3,10 @@
 
 ---
 
-## 👋
+## 📊 Моя активность в 3D
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=4000&color=00ADD8&center=true&vCenter=true&width=435&lines=Привет!+Я+Go-разработчик;Создаю+бэкенд-сервисы;...и+увлекаюсь+DevOps" alt="Typing SVG" />
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=dubthreehunna&theme=dark" alt="My 3D Contributions" />
 </p>
 
 ---
